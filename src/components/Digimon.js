@@ -50,7 +50,6 @@ class Digimon extends Component {
                       backgroundColor: "#eeebdd",
                       color: "#1b1717",
                       fontWeight: "bolder",
-                      // border: "solid 0.5em #eeebdd ",
                     }}
                   >
                     ADD To FAV
